@@ -1,2 +1,3 @@
-/venv
+venv
 stats_erreurs.json
+.vscode
